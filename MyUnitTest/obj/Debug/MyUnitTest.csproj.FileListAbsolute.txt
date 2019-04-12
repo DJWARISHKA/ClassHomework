@@ -1,0 +1,15 @@
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\MyUnitTest.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\MyUnitTest.pdb
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\obj\Debug\MyUnitTest.csprojAssemblyReference.cache
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\obj\Debug\MyUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\obj\Debug\MyUnitTest.csproj.CopyComplete
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\obj\Debug\MyUnitTest.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\obj\Debug\MyUnitTest.pdb
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\ClassHomework.exe
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\ClassHomework.pdb
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\ClassHomework.exe.config
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\НакуренныйВолшебник\source\repos\ClassHomework\MyUnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
